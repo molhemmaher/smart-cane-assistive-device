@@ -20,7 +20,7 @@ The system integrates sensors, processing hardware, and audio feedback to warn t
 
 ## Demonstration
 
-The presentation pptx file has a video demo in one of the slides 
+https://youtube.com/shorts/TQjSAexLjIM?feature=share
 ## Documentation
 
 The original project report and presentation are available in Hebrew.
